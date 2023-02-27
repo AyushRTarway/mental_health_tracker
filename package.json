@@ -1,0 +1,11 @@
+{
+  "name": "mental_health",
+  "version": "1.0.0",
+  "description": "mental health tracking web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tarway Ayush Rakesh",
+  "license": "ISC"
+}
